@@ -1,3 +1,6 @@
 [submodule "MyHometown"]
 	path = MyHometown
 	url = https://github.com/Cobra1512/MyHometown
+[submodule "MyWebsite"]
+	path = MyWebsite
+	url = https://github.com/Cobra1512/MyWebsite
