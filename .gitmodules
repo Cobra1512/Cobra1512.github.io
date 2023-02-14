@@ -4,3 +4,6 @@
 [submodule "MyWebsite"]
 	path = MyWebsite
 	url = https://github.com/Cobra1512/MyWebsite
+[submodule "Lab4"]
+	path = Lab4
+	url = https://github.com/Cobra1512/Lab4
