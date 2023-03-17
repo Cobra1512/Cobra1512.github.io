@@ -13,3 +13,6 @@
 [submodule "Lab6"]
 	path = Lab6
 	url = https://github.com/Cobra1512/Lab6
+[submodule "Lab7"]
+	path = Lab7
+	url = https://github.com/Cobra1512/Lab7
