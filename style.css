@@ -1,0 +1,143 @@
+
+
+#photos{
+    position:relative;
+    top:8vh;
+    height: 40vh;
+    display:flex;
+    width: 100vw;
+}
+
+#navigmenu{
+    background-color: yellow;
+    position:relative;
+    width:200%;
+    height:600%;
+    left: -100%;
+    display:none;
+    font-size: 200%;
+    text-align: left;
+}
+.photo{
+    background-color: green;
+    height:100%;
+    width:100%;
+    display:none;
+}
+
+.photo img {
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.photo1{
+    background-color: lightblue;
+    height: 100%;
+    width: 20%;
+}
+.photo2{
+    background-color: yellow;
+    height: 100%;
+    width: 20%;
+}
+
+.content{
+    position:relative; 
+    top:8vh;
+    font-size:200%;
+    color: yellow;
+    background-color:lightblue;
+    width: 100vw;
+    text-align: center;
+}
+
+.cont{
+    font-size: 50%;
+}
+
+#contactmenu{
+    position:relative; 
+    top:8vh;
+    background-color: yellow;
+    width: 100vw;
+    vertical-align: middle;
+    text-align: center;
+}
+#navigclose{
+    height:10%;
+    width:20%;
+}
+.naviglink{
+    text-decoration:none;
+    color: black;
+}
+
+#headline {
+    background-color: gray;
+    height: 8vh;
+    width:100vw;
+    position:fixed;
+    z-index:10;
+}
+
+#intro{
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    color: yellow;
+    font-size: 200%;
+}
+.text{
+    display:none;
+}
+
+
+#navigbutton{
+    background-color: yellow;
+    position:relative;
+    height:100%;
+    width:8%;
+    left:92%;
+    top:-100%;
+}
+
+@media (orientation: portrait) {
+    #photos{
+        height: 100vh;
+        width: 100vw;
+        display:block;
+    }
+    .photo1{
+        position:relative;
+        left:15%;
+        background-color: lightblue;
+        height: 20%;
+        width: 70%;
+    }
+    .photo2{
+        position:relative;
+        left:15%;
+        background-color: yellow;
+        height: 20%;
+        width: 70%;
+    }
+    #navigbutton{
+        
+        width:15%;
+        left:85%;
+    }
+    #navigmenu{
+        width:100vw;
+        left: -70vw;
+        height:60vh;
+        font-size: 300%;
+    }
+    #intro{
+        font-size: 180%;
+        width:85%;
+    }
+  }
+
+
