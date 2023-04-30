@@ -16,3 +16,6 @@
 [submodule "Lab7"]
 	path = Lab7
 	url = https://github.com/Cobra1512/Lab7
+[submodule "Lab8"]
+	path = Lab8
+	url = https://github.com/Cobra1512/Lab8
