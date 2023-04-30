@@ -25,3 +25,6 @@
 [submodule "pages/MyHometown"]
 	path = pages/MyHometown
 	url = https://github.com/Cobra1512/MyHometown
+[submodule "pages/MyWebsite"]
+	path = pages/MyWebsite
+	url = https://github.com/Cobra1512/MyWebsite
