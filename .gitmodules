@@ -37,3 +37,6 @@
 [submodule "pages/Lab6"]
 	path = pages/Lab6
 	url = https://github.com/Cobra1512/Lab6
+[submodule "pages/Lab7"]
+	path = pages/Lab7
+	url = https://github.com/Cobra1512/Lab7
