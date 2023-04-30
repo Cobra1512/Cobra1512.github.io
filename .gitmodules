@@ -22,3 +22,6 @@
 [submodule "pages/Lab2"]
 	path = pages/Lab2
 	url = https://github.com/Cobra1512/Lab2
+[submodule "pages/MyHometown"]
+	path = pages/MyHometown
+	url = https://github.com/Cobra1512/MyHometown
