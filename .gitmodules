@@ -28,3 +28,6 @@
 [submodule "pages/MyWebsite"]
 	path = pages/MyWebsite
 	url = https://github.com/Cobra1512/MyWebsite
+[submodule "pages/Lab4"]
+	path = pages/Lab4
+	url = https://github.com/Cobra1512/Lab4
